@@ -113,7 +113,7 @@ body {
   
   .front:before {
     position: absolute;
-    content: "";
+    content: " ";
     border-left: 300px solid #f8ad9d;
     border-top: 195px solid transparent;
     left: -120px;
